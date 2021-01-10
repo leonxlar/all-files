@@ -1,0 +1,103 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__96 (2) to come 
+#
+newmtl Wood
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl metal
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__96 done 
+#
+# Multi/Sub Material__107 (2) to come 
+#
+newmtl Wood
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl metal
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__107 done 
+#
+# Multi/Sub Material__118 (2) to come 
+#
+newmtl Wood
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl metal
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__118 done 
+#
+# Multi/Sub Material__129 (2) to come 
+#
+newmtl Wood
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl metal
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__129 done 
+#
+# Multi/Sub Material__140 (2) to come 
+#
+newmtl Wood
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl metal
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__140 done 
+#
+# EOF
